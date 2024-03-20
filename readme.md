@@ -1,0 +1,1 @@
+The user interacts with the system by providing answers to flashcard questions. The user progresses through levels based on correct answers, and they can skip cards if needed. The process repeats for four rounds, and the user is congratulated upon completion.
